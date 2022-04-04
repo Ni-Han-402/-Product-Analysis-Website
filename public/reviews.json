@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Christian Buehner",
+        "img": "https://www.linkpicture.com/q/christian-buehner-DItYlc26zVI-unsplash.jpg",
+        "review": "“Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.”",
+        "ratings": 5
+
+    },
+    {
+        "id": 2,
+        "name": "Laura Chouettee",
+        "img": "https://www.linkpicture.com/q/laura-chouette-W6N869esmYM-unsplash.jpg",
+        "review": "“A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.”",
+        "ratings": 4
+
+    },
+    {
+        "id": 3,
+        "name": "Charlie Green",
+        "img": "https://www.linkpicture.com/q/charlie-green-3JmfENcL24M-unsplash.jpg",
+        "review": "“When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then she continued her way.”",
+        "ratings": 4.5
+
+    },
+    {
+        "id": 4,
+        "name": "Evan Wise",
+        "img": "https://www.linkpicture.com/q/evan-wise-eJ0UGX8da2c-unsplash.jpg",
+        "review": "“A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.”",
+        "ratings": 4
+
+    },
+    {
+        "id": 5,
+        "name": "Christina",
+        "img": "https://www.linkpicture.com/q/christina-wocintechchat-com-0Zx1bDv5BNY-unsplash.jpg",
+        "review": "“A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.”",
+        "ratings": 4
+
+    },
+    {
+        "id": 6,
+        "name": "Samuel Raita",
+        "img": "https://www.linkpicture.com/q/samuel-raita-RiDxDgHg7pw-unsplash.jpg",
+        "review": "“A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.”",
+        "ratings": 4
+
+    }
+]
