@@ -1,0 +1,12 @@
+.review-card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid goldenrod;
+    border-radius: 10px;
+}
+.review-card img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
