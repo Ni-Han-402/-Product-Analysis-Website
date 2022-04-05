@@ -1,4 +1,17 @@
-# Getting Started with Create React App
+
+# Explore World
+
+Netlify Live Link [Netlify](https://explore-world-tour.netlify.app/).
+
+
+## Acknowledgements
+
+ - [Home Section](https://explore-world-tour.netlify.app/home)
+ - [Reviews Section](https://explore-world-tour.netlify.app/reviews)
+ - [Dashboard Section](https://explore-world-tour.netlify.app/dashboard)
+ - [Blog Section](https://explore-world-tour.netlify.app/blogs)
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
